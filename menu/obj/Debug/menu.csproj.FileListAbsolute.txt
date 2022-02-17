@@ -1,0 +1,13 @@
+c:\users\vitalik_z\documents\visual studio 2017\Projects\menu\menu\bin\menu.dll.config
+c:\users\vitalik_z\documents\visual studio 2017\Projects\menu\menu\bin\menu.dll
+c:\users\vitalik_z\documents\visual studio 2017\Projects\menu\menu\bin\menu.pdb
+c:\users\vitalik_z\documents\visual studio 2017\Projects\menu\menu\obj\Debug\menu.dll
+c:\users\vitalik_z\documents\visual studio 2017\Projects\menu\menu\obj\Debug\menu.pdb
+C:\Users\Vitalik_Z\Documents\Visual Studio 2017\Projects\menu\menu\obj\Debug\menu.csprojResolveAssemblyReference.cache
+D:\Vitalik_Z\profiles\Vitalik_Z\Documents\Visual Studio 2017\Projects\menu\menu\bin\menu.dll.config
+D:\Vitalik_Z\profiles\Vitalik_Z\Documents\Visual Studio 2017\Projects\menu\menu\bin\menu.dll
+D:\Vitalik_Z\profiles\Vitalik_Z\Documents\Visual Studio 2017\Projects\menu\menu\bin\menu.pdb
+D:\Vitalik_Z\profiles\Vitalik_Z\Documents\Visual Studio 2017\Projects\menu\menu\obj\Debug\menu.csprojResolveAssemblyReference.cache
+D:\Vitalik_Z\profiles\Vitalik_Z\Documents\Visual Studio 2017\Projects\menu\menu\obj\Debug\menu.csproj.CoreCompileInputs.cache
+D:\Vitalik_Z\profiles\Vitalik_Z\Documents\Visual Studio 2017\Projects\menu\menu\obj\Debug\menu.dll
+D:\Vitalik_Z\profiles\Vitalik_Z\Documents\Visual Studio 2017\Projects\menu\menu\obj\Debug\menu.pdb
